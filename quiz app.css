@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(8, 172, 236);
+}
+#container{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+   
+ /* background-color: rgb(149, 208, 241); */
+}
+.button1{
+    display:block;
+    padding:10px;
+    margin:20px;
+    width:400px;
+        
+}
+#start{
+    border: 2px solid black;
+    background-color: purple;
+    border-radius: 3px;
+    padding: 10px;
+}
+button{
+    margin-top: 20px;
+}
+#timer{
+    font-size: 18px;
+    color: white;
+}
+#choies{
+    padding: 10px;
+    margin-left: 70px;
+}
+#next-btn{
+    padding: 10px;
+    width: 70px;
+    background-color:lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-left: 45%;
+
+}
